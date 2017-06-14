@@ -1,0 +1,33 @@
+{
+  "name": "alfred-youtube",
+  "version": "1.0.0",
+  "description": "Search YouTube",
+  "license": "MIT",
+  "repository": "patrickkahl/alfred-youtube",
+  "author": {
+    "name": "Patrick Kahl",
+    "email": "Kahl.Patrick@googlemail.com",
+    "url": "github.com/patrickkahl"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy"
+  ],
+  "dependencies": {
+    "alfy": "^0.6.0",
+    "youtube-search": "^1.0.9"
+  }
+}
