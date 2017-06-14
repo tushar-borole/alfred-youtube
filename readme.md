@@ -1,4 +1,4 @@
-# alfred-youtube [![Build Status](https://travis-ci.org/patrickkahl/alfred-youtube.svg?branch=master)](https://travis-ci.org/patrickkahl/alfred-youtube)
+# alfred-youtube
 
 > Search YouTube
 
