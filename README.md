@@ -12,6 +12,8 @@ $ npm install --global alfred-youtube
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
+*I defaulting to `npm` but you can also download the `YouTube.alfredworkflow` and double-click the file.*
+
 ## First Run
 
 Before running the workflow you need to set your **YOUTUBE_API_KEY**:
