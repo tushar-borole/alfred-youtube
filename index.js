@@ -1,5 +1,6 @@
 'use strict';
 
+require('dotenv').config({path: __dirname + '/variables.env'});
 const alfy = require('alfy');
 const youtubeSearch = require('youtube-search');
 

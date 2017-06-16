@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm i --g alfred-youtube
+$ npm install --global alfred-youtube
 ```
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
